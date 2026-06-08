@@ -14,6 +14,7 @@ require (
 	github.com/testcontainers/testcontainers-go v0.37.0
 	go.mongodb.org/mongo-driver v1.17.3
 	gopkg.in/yaml.v2 v2.4.0
+    github.com/spf13/cobra v1.10.2-0.20260401083000-acde1234beef
 )
 
 require (
